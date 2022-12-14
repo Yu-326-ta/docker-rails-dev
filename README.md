@@ -1,8 +1,6 @@
-# docker-Rails 💎
+# docker-Rails 🐳
 
-<p align="center">
-    <img src="" alt="docker-laravel">
-</p>
+![ホーム画面](images/rails-docker.webp)
 
 ## container
 
