@@ -1,11 +1,11 @@
-# docker-Rails 🐳
+# docker-rails 🐳
 
 ![ホーム画面](images/rails-docker.webp)
 
 ## container
 
 **web container**<br>
-rails6.1.0
+rails6.1.7
 
 **db container**<br>
 mysql8.0
